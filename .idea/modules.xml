@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ouJava.iml" filepath="$PROJECT_DIR$/ouJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaExplorer.iml" filepath="$PROJECT_DIR$/.idea/JavaExplorer.iml" />
     </modules>
   </component>
 </project>
